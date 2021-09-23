@@ -9,8 +9,7 @@
   <p align="center">
     <strong>
       <a href="#about">About</a> •
-      <a href="#project-demo">Project Demo</a> •
-      <a href="#support">Support</a>
+      <a href="#project-demo">Project Demo</a
     </strong>
   </p>
   
@@ -28,8 +27,3 @@ Project Link: https://www.khanacademy.org/computer-programming/air-hockey-glow-e
      <img width="100%" src="https://user-images.githubusercontent.com/18473793/134559769-2d860805-4b57-49ed-a9ed-713e41695a52.png">
   </a>
 </p>
-
-## Support
-For additional assistance, comments, or suggestions, please reach out to the developers at:
-<br><br>
-Daniel Haugen - **dlhaug7343@ung.edu**
