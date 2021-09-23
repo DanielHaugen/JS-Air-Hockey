@@ -22,9 +22,9 @@ An Air Hockey game, created in JS, on Khan Academy's online IDE. Developed back 
 
 ## Project Demo
 <p align="center">
-   <a src="https://www.khanacademy.org/computer-programming/air-hockey-glow-edition/5888889298747392">
+   <a href="https://www.khanacademy.org/computer-programming/air-hockey-glow-edition/5888889298747392">
      <img width="100%" src="https://user-images.githubusercontent.com/18473793/134559769-2d860805-4b57-49ed-a9ed-713e41695a52.png">
-  </a\>
+  </a>
 </p>
 
 ## Support
