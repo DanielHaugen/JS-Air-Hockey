@@ -20,6 +20,8 @@
 
 An Air Hockey game, created in JS, on Khan Academy's online IDE. Developed back in around 2016, during my sophomore year of high school, for the Georgia Regional Technology Competition, in which this project was the recipient of the first-place prize for the competition.
 
+Project Link: https://www.khanacademy.org/computer-programming/air-hockey-glow-edition/5888889298747392
+
 ## Project Demo
 <p align="center">
    <a href="https://www.khanacademy.org/computer-programming/air-hockey-glow-edition/5888889298747392">
