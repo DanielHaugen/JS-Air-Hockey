@@ -18,7 +18,7 @@
 
 ## About
 
-An Air Hockey game, created in JS, on Khan Academy's online IDE. I created this application my sophomore year of high school for the Georgia Regional Technology Competition and won the first-place award with this project.
+An Air Hockey game, created in JS, on Khan Academy's online IDE. Developed back in around 2016, during my sophomore year of high school, for the Georgia Regional Technology Competition, in which this project was the recipient of the first-place prize for the competition.
 
 ## Project Demo
 <p align="center">
